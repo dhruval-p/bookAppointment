@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dhruval-p/bookAppointment/static/css/main.052fab14.css",
+    "main.js": "/dhruval-p/bookAppointment/static/js/main.1cd4a332.js",
+    "index.html": "/dhruval-p/bookAppointment/index.html",
+    "main.052fab14.css.map": "/dhruval-p/bookAppointment/static/css/main.052fab14.css.map",
+    "main.1cd4a332.js.map": "/dhruval-p/bookAppointment/static/js/main.1cd4a332.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.052fab14.css",
+    "static/js/main.1cd4a332.js"
+  ]
+}
